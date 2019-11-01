@@ -52,5 +52,6 @@ Employee.find({}, function (err, employee){
 
 for (var i = 0; i < 10; i++){
     // newEmployee();
+    
 }
 
